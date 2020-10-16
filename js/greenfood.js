@@ -1,4 +1,4 @@
-var slideshow = document.getElementById('slideshow');
+		var slideshow = document.getElementById('slideshow');
 		var slides = slideshow.getElementsByTagName('img');
 		var index  = 0;
 
